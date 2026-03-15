@@ -163,7 +163,7 @@ This demonstrates mature model selection — choosing performance and interpreta
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - Python
 - Pandas
